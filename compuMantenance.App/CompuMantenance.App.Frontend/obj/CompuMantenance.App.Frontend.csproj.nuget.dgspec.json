@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj": {}
+    "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj": {
+    "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
         "projectName": "CompuMantenance.App.Frontend",
-        "projectPath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
+        "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
         "packagesPath": "C:\\Users\\jhoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\obj\\",
+        "outputPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhoma\\AppData\\Roaming\\NuGet\\NuGet.Config"

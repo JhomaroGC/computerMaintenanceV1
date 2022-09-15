@@ -6044,11 +6044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
       "projectName": "CompuMantenance.App.Consola",
-      "projectPath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
+      "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
       "packagesPath": "C:\\Users\\jhoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\obj\\",
+      "outputPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6063,8 +6063,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj"
+            "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj"
             }
           }
         }
