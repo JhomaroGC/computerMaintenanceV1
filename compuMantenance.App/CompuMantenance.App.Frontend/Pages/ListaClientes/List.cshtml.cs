@@ -5,22 +5,19 @@ using CompuMantenance.App.Dominio.Entidades;
 
 namespace CompuMantenance.App.Frontend.Pages
 {
-    public class ListModelClientes : PageModel
+    public class ListModelListaClientes : PageModel
     {
-
         
         private readonly IRepositorioClientes repositorioClientes;
         public IEnumerable<Cliente> clientes {get; set; }
 
-        public ListModelClientes(IRepositorioClientes repositorioClientes)
+        public ListModelListaClientes(IRepositorioClientes repositorioClientes)
         {
             this.repositorioClientes = repositorioClientes;
         }
 
         public void OnGet()
         {
-            //ListaContactos = new List<string>();
-            //ListaContactos.AddRange(contactos);
             clientes = repositorioClientes.GetAll();
         }
     }
