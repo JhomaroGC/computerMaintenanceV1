@@ -5972,19 +5972,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhoma\\.nuget\\packages\\": {}
+    "C:\\Users\\empre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
       "projectName": "CompuMantenance.App.Frontend",
-      "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\jhoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\obj\\",
+      "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5996,8 +5996,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj"
+            "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj"
             }
           }
         }
