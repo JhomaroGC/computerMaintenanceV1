@@ -1,11 +1,23 @@
 @page
-@model CompuMantenance.App.Frontend.Pages.ListModelListaClientes
+@model CompuMantenance.App.Frontend.Pages.ListaClientes.DetailsModel
 @{
     ViewData["Title"] = "Detalle Cliente";
 }
 
-<h1>@ViewData["Title"]</h1>
+<h1 class="mt-3 bg-secondary text-light text-center rounded">@ViewData["Title"]</h1>
 
-<h1 class = "mt-3 bg-secondary text-light text-center rounded">Detalle cliente</h1>
+<div class="container">
+    <div class="col-3">
+        <strong>✅Nombre: </strong> @Model.cliente.Nombre
+    </div>
+    <div>
+        <strong>✅Apellido: </strong> @Model.cliente.Apellidos
+    </div>
+    <div>
+        <strong>✅Numero Telefono: </strong> @Model.cliente.NumeroTelefono
+    </div>
 
-<p></p>
+    <div>
+       ◀ <a  asp-page="./List" class="btn-default">Volver a la Lista de Clientes </a>
+    </div>
+</div>

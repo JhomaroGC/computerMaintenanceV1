@@ -10,12 +10,12 @@ using CompuMantenance.App.Dominio.Entidades;
 
 namespace CompuMantenance.App.Frontend.Pages.ListaClientes
 {
-    public class Details : PageModel
+    public class DetailsModel : PageModel
     {
         private readonly IRepositorioClientes repositorioClientes;
         public Cliente cliente { get; set; }
 
-        public Details(IRepositorioClientes repositorioClientes)
+        public DetailsModel(IRepositorioClientes repositorioClientes)
         {
             this.repositorioClientes = repositorioClientes;
         }
