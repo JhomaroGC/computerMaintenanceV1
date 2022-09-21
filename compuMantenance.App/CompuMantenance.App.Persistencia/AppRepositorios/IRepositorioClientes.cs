@@ -10,7 +10,11 @@ namespace CompuMantenance.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioClientes
     {
-        IEnumerable<Cliente> GetAll();
+        //RepositorioClientesMemoria(AppContext3 appContext);
+        // IEnumerable<Cliente> GetAll();
+        // Cliente GetClientePorId(int clienteId);
+        // Cliente UpdateCliente(Cliente clienteActualizado);
+        // Cliente AddCliente(Cliente nuevoCliente);
         
     }
 }
